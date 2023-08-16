@@ -1,0 +1,20 @@
+1. HTTP: set of rules for internet communication	
+
+2. What we type in our browser consists of several parts: protocol + hostname + port + resource	+ query
+
+3. A DNS takes hostnames and turns them into IP Adresses
+
+4. An argument passed on to the end of the url consisting of key value pairs and example would be what gets added when you do a search in the search bar on a website. 
+
+5. GET and POST; you use get if you are making a request without side effects and post if you are trying to change something on the server. 
+
+6. That's what your browser sends to the server when trying to get something back
+
+7. This is the response from the server to your browsers request. 
+
+8. Headers contains information about the data to be fetched / the data that is returned. An example is the language header. 
+
+9. Follows the http protocols to turn somesite.com into an IP address, connects to this IP Address using port 80 for http, requests /some/page.html
+
+
+**Part 2** I don't know where to use curl and dig tired dig in vs code and curl in my terminal and nothing happened. Also If I open the page with live server and change the method to POST anything I enter crashes it. 
