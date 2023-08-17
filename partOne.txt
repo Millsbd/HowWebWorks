@@ -17,4 +17,4 @@
 9. Follows the http protocols to turn somesite.com into an IP address, connects to this IP Address using port 80 for http, requests /some/page.html
 
 
-**Part 2** I don't know where to use curl and dig tired dig in vs code and curl in my terminal and nothing happened. Also If I open the page with live server and change the method to POST anything I enter crashes it. 
+**Part 2** I can't find any info on dig or curl in the section, there was a video on curl in the next one so I was able to play with that. For the filtering data is that the curl -v seachTerm Website  because it returns a mess. 
